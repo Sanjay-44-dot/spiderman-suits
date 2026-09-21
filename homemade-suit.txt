@@ -1,3 +1,2 @@
 "Red and blue suit with web shooters" 
 "Added: Stark tech, AI assistant" 
-"BAD UPGRADE: suit explodes" 
